@@ -5,3 +5,7 @@
 # Mac/OSX
 .DS_Store
 .venv
+
+# Custom
+**/dog_breeds/
+**/great-dane.jpg
