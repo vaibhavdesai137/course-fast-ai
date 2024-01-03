@@ -7,5 +7,6 @@
 .venv
 
 # Custom
-**/dog_breeds/
-**/great-dane.jpg
+**/*.pkl
+**/cats_and_dogs/
+**/dog.jpg
